@@ -1,0 +1,59 @@
+[31] TITLE: Impurity scattering effects on the low-temperature specific heat ofd-wave superconductors
+JOURNAL: American Physical Society (APS) | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/85bedf4f-350f-34dd-ba77-88a9bdf9d7f1
+ABSTRACT: Very recently impurity scattering effects on quasiparticles in d-wave superconductors have attracted much attention. Especially, the thermodynamic properties in magnetic fields H are of interest. We have measured the low-temperature specific heat C(T,H) of La_1.78Sr_0.22Cu_1-xNi_xO4. For the first time, the impurity scattering effects on C(T,H) of cuprate superconductors were clearly observed, and are compared with theory of d-wave superconductivity. It is found that impurity scattering leads to gamma(H)=gamma(0)(1+D((H/H_c2)(ln(H_c2/H)) in small magnetic fields. Most amazingly, the scaling of C(T,H) breaks down due to impurity scattering.
+
+[32] TITLE: New exact solution formula for specific heat-phonon spectrum inversion and its application in studies of superconductivity
+JOURNAL: Elsevier B.V. | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/3f921f2b-a910-35ea-a8fb-85626a5385f0
+ABSTRACT: A new exact solution for specific heat-phonon spectrum inversion using real functions is presented. This solution contains all the merits of the Debye scheme, and, in addition, the solution set is complete. The phonon spectrum of YBCO obtained by this new formula is consistent with that from neuron scattering.
+
+[33] TITLE: Thermodynamic properties of ultrasmall superconducting grains
+JOURNAL: Taylor & Francis | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/28ea4b07-0a84-33e6-8323-7b5f05cce074
+ABSTRACT: We briefly review some properties of ultrasmall superconducting grains. The ground state and the first excited states of the grains are analysed by studying the parity gap and the spectroscopic gap. Both quantities turn out to be parity dependent and universal functions of the ratio δ/Δ of the level spacing to the Bardeen Cooper-Schrieffer (BCS) gap. Pairing correlations strongly influence the thermodynamic quantities. We discuss the specific heat for even and odd grains. The presence of the BCS attractive interaction introduces distinct features even in the limit of ultrasmall grains.
+
+[34] TITLE: Disorder and/or density of states effect in Y xLu 1− xNi 2B 2C
+JOURNAL: Elsevier B.V. | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/c45c1364-11ba-3009-ba37-9ae508e2416e
+ABSTRACT: The role of disorder and/or lattice strain due to the size mismatch between Y and Lu in the solid solution Y x Lu 1− x Ni 2B 2C was studied by specific heat measurements in magnetic fields up to 9 T. Thereby, the analysis of the superconducting and normal state heat capacity as well as the temperature dependence of the upper critical field H c2 shows that the reported reduction of T c within the solid solution correlates with a reduction of the electronic density of states N( E f). Thus, the major effect of Y/Lu substitution upon superconductivity is due to a band broadening arising from the R-ion size mismatch rather than from disorder scattering of Cooper electrons.
+
+[35] TITLE: Magnetic susceptibility in 2D superconductor NaxHfNCl system
+JOURNAL: Gordon and Breach | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/f1d26dfd-12f5-37ec-b12e-d33c2b291916
+ABSTRACT: Superconducting critical temperature, Tc, and the shielding volume fraction, SVF, of layered nitride superconductor NaxHfNCl have been studied as a function of x, i.e. Na concentration. Although Tc decreases gradually with increasing x from 20.0 K at x=0.11 to 16.5 K at x=0.85, SVF has a sharp peak around x=1/6, where strong coupling between local ordering of Na atoms and Fermi surface instability can he expected. Structural disorder in the samples above x=0.5, observed by powder neutron diffraction, does not affect the superconductivity appreciably. Electronic specific heat coefficient, γ, is estimated to be about 7.7 mJ/mol/K2 by its difference of magnetic susceptibility between HfNCl and Na0.5HfNCl. The y value is relatively small compared with the high Tc value, revealing double honeycomb lattice system as new potential higher Tc superconductor series by intercalation.
+
+[36] TITLE: Heat capacity of mesoscopic superconducting disks
+JOURNAL: IOP Publishing | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/d5465a36-609c-397d-a715-9f9c3ce61bc1
+ABSTRACT: We study the heat capacity of isolated giant vortex states, which are good angular momentum ($L$) states, in a mesoscopic superconducting disk using the Ginzburg-Landau (GL) theory. At small magnetic fields the $L$=0 state qualitatively behaves like the bulk sample characterized by a discontinuity in heat capacity at $T_c$. As the field is increased the discontinuity slowly turns into a continuous change which is a finite size effect. The higher $L$ states show a continuous change in heat capacity at $T_c$ at all fields. We also show that for these higher $L$ states, the behavior of the peak position with change in field is related to the paramagnetic Meissner effect (irreversible) and can lead to an unambiguous observation of positive magnetization in mesoscopic superconductors.
+
+[37] TITLE: Specific heat studies in Ho-Ba-CuO superconductors: Fermionic and bosonic contributions
+JOURNAL: Springer Science and Business Media LLC | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/e49c874e-a2fb-3f3f-ae6a-e74c4c469796
+ABSTRACT: The specific heats of superconducting HoBa 2Cu3O7-δ ( T c ≅ 92 K) have been theoretically investi- gated in the temperature domain 70 ≤ T ≤ 110 K. The bosonic (phonons) contribution to the specific heat is estimated from Debye model in the harmonic approximation for high temperature expansion ( T > θD/2π) using the moments of the phonon density of states. The fermionic constituent as the electronic specific heat is deduced using a suitable trial function above and below Tc. As a next step the contribution of specific heat by charge oscillations (plasmons) are obtained. The theoretical results from bosonic and fermionic terms are then com- pared with the experimental results. We find that the specific heats from electronic as well as plasmon term are only a fraction of lattice specific heat and in particular, plasmons do not influence the thermal conduction signi- ficantly. The implications of the above analysis are discussed.
+
+[38] TITLE: SPECIFIC HEAT JUMP AT TC OF HIGH-TC SUPERCONDUCTORS: EFFECT OF VAN HOVE SINGULARITY
+JOURNAL: World Scientific Publishing Company | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/974cce72-b534-3842-8525-b80b2c1e3464
+ABSTRACT: In the BCS framework, exact expressions for the ratio between the jump in the specific heat at Tc and the normal phase specific heat are derived within the Van Hove singularity scenario. Analytical results are obtained for an isotropic s-wave and anisotropic d-wave pairing symmetries. Graphical solutions of the ratio as functions of ωD/Tc and EF/Tc, where ωD is the cutoff energy and EF is the Fermi energy, show significant deviations from the BCS value of 1.43.
+
+[39] TITLE: Specific heat of organic superconductorκ−(BEDT−TTF)2Cu[N(CN)2]Brunder a magnetic field parallel to the conducting plane
+JOURNAL: American Physical Society (APS) | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/fc571512-ce16-3fde-ad0c-c4a9907e8ca3
+ABSTRACT: (no abstract in the export)
+
+[40] TITLE: Specific heat anomalies in the magnetic borocarbide superconductorsY1−xRxNi2B2C(R=Gd,Dy, Ho, and Er)
+JOURNAL: American Physical Society (APS) | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/9b6d8f0f-f874-38ca-8611-a966d8d52665
+ABSTRACT: (no abstract in the export)
+
+[41] TITLE: Heat capacity and transport studies of the ferromagnetic superconductorRuSr2GdCu2O8
+JOURNAL: American Physical Society (APS) | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/73b6c526-a936-3953-ba34-4e5467899186
+ABSTRACT: (no abstract in the export)
+
+[42] TITLE: Specific heat of Zn-dopedYBa2Cu3O6.95:Possible evidence for Kondo screening in the superconducting state
+JOURNAL: American Physical Society (APS) | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/35f0ed9e-d13d-3569-aa2f-22bdf8533206
+ABSTRACT: (no abstract in the export)
+
+[43] TITLE: Phase behavior of the organic superconductorsκ−(BEDT−TTF)2Cu[N(CN)2]X(X=Brand Cl) studied by ac calorimetry
+JOURNAL: American Physical Society (APS) | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/4c035238-25ff-3c0a-8a30-2abaaa7d85a4
+ABSTRACT: (no abstract in the export)
+
+[44] TITLE: Comparison between calorimetric and electromagnetic total ac loss measurement results on a BSCCO/Ag tape
+JOURNAL: Institute of Physics | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/31c7b6ef-5475-3d1d-aa4c-73858d258f07
+ABSTRACT: The ac loss plays an important role in the design of electro-technical components based on high-temperature superconductors. It is important to have reliable techniques for the measurements of the ac loss under application-like conditions. This paper contains a comparison between the ac loss results obtained with a calorimetric measurement method and those obtained with an electromagnetic measurement method. The measurements were performed on a Bi-2223 silver-sheathed non-twisted multi-filamentary tape. The sample was exposed to combinations of an ac transport current and an ac applied magnetic field (oriented perpendicular or parallel to the tape surface). The results obtained with the two measuring methods show good agreement with each other.
+
+[45] TITLE: Role of interlayer and intersite interactions in superconducting state in High-Tc layered cuprates
+JOURNAL: Kluwer/Plenum | YEAR: 2000.0 | DOI: https://research.ebsco.com/plink/cf11d63c-f635-3961-a314-bfb4892a1a25
+ABSTRACT: We studied the role of interlayer and intersite interactions on transition temperature and specific heat of layered high-Tc cuprates. We used double-time Green's function technique in the spirit of mean field approximation in order to obtain the expressions for hole density, transition temperature, and specific heat. These expressions are found to be dependent on the carrier concentration and intersite and interlayer interactions. The numerical analysis shows that the effect of intersite interaction on transition temperature and specific heat is qualitatively similar to that of interlayer interactions and provides favorable conditions to establish long-range order in the superconducting state.
